@@ -2,7 +2,8 @@
 
 Welcome to the **Power BI Project Dashboard** repository! This collection showcases interactive dashboards analyzing data from various real-world domains.
 
-![Dashboard Preview](./7cec61c5-4e45-4d0e-ac0f-7fd45ea93d6a.png)
+![Dashboard Preview](https://github.com/manasi-gade07/PowerBI_Dashboard_Projects/blob/c27b087cc32dbda91036d2cfc07da2ef85b78b4a/Dashboards.jpeg)
+
 
 ---
 
