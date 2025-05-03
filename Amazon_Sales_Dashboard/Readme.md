@@ -55,5 +55,3 @@ This Power BI dashboard provides a visual analysis of Amazon sales data, focusin
 - Various fulfillment methods are evaluated for their efficiency in meeting customer expectations and driving sales.
 
 ---
-
-Explore the interactive Power BI dashboard to uncover more insights and customize your analysis based on the provided filters. 💻
