@@ -15,7 +15,9 @@ Welcome to the **Power BI Project Dashboard** repository! This collection showca
 - Top 5 product categories by sales  
 - Delivery partner and courier status insights  
 - Fulfillment method and shipping state analysis  
-- Dynamic filters for time & location  
+- Dynamic filters for time & location
+- 
+[View Power BI Report](https://app.powerbi.com/links/C-Yp2Q0P2a?ctid=df75485b-e433-49cf-aaf0-33241c3e3e77&pbi_source=linkShare)
 
 ---
 
@@ -26,7 +28,10 @@ Welcome to the **Power BI Project Dashboard** repository! This collection showca
 - Performance in ODI, Test, and T20I formats  
 - Runs, averages & centuries by format  
 - Opponent and venue-based performance  
-- Career timeline & interactive filters  
+- Career timeline & interactive filters
+
+[View Power BI Report](https://app.powerbi.com/links/1r6Y0uS2h_?ctid=df75485b-e433-49cf-aaf0-33241c3e3e77&pbi_source=linkShare)
+
 
 ---
 
@@ -37,7 +42,9 @@ Welcome to the **Power BI Project Dashboard** repository! This collection showca
 - Daily, weekly, and hourly ride trends  
 - Bookings, revenue, and trip ratings (customer & driver)  
 - Ride duration, distance & revenue metrics  
-- Payment Modes 
+- Payment Modes
+
+[View Power BI Report](https://app.powerbi.com/links/9_yf2Y9BCJ?ctid=df75485b-e433-49cf-aaf0-33241c3e3e77&pbi_source=linkShare)
 
 ---
 
@@ -48,7 +55,10 @@ Welcome to the **Power BI Project Dashboard** repository! This collection showca
 - Patient admission and discharge trends  
 - Doctor appointments and diagnosed diseases  
 - Bed occupancy, billing, and insurance insights  
-- Department-wise patient visits & KPIs monitoring  
+- Department-wise patient visits & KPIs monitoring
+
+[View Power BI Report](https://app.powerbi.com/links/bmbp97laTJ?ctid=df75485b-e433-49cf-aaf0-33241c3e3e77&pbi_source=linkShare)
+
 
 ---
 
